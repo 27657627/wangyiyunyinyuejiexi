@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 禁止访问特定目录
+Disallow: /.well-known/
+
+# 网站地图
+Sitemap: http://jk.xn--9kq32sd94a.top/sitemap.xml
